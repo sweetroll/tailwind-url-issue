@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import './subfolder/more.css';
+
+#one {
+    background-image: url('/images/vite.svg');
+}
+
+#two {
+    background-image: url('/vite.svg');
+}
